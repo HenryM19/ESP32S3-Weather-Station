@@ -5,7 +5,7 @@ Bievenido, este repositorio contiene el desarrollo de una estación meteorológi
 La estación actúa como nodo en una red LoRaWAN, siguiente el esquema que se muestra a continuación.
 
 <p align="center">
-  <img src="" alt="Startup" width="400"/>
+  <img src="./Docs/arquitectura.png" alt="Startup" width="600"/>
 </p> 
 
 ---
@@ -15,14 +15,11 @@ La estación actúa como nodo en una red LoRaWAN, siguiente el esquema que se mu
 - [`Hardware`](./Hardware/Desings/)  
   Archivos de diseño de la estación. 
 
-- [`Configuration`](./Configuration)  
-  Guía de conexión para programación de la estación. 
-
 - [`Firmware`](./Firmware)  
   Código fuente para el funcionamiento de la estación. 
 
 - [`Hojas técnicas`](./Docs)  
-  Archivos y guías para configuración de hardware, controladores y puesta a punto.
+  Archivos y datasheets de componentes.
 
 ---
 

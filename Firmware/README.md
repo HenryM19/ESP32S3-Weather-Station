@@ -9,7 +9,7 @@ En esta sección se describen los programas y la metodología utilizada para pro
 Para cargar el firmware en la estación, es necesario contar con un módulo **FT232** (conversor USB a UART), que permite que la computadora reconozca la placa y posibilita la programación mediante el **Arduino IDE**.
 
 <p align="center">
-  <img src="" alt="Módulo FT232 para programación" width="400"/>
+  <img src="../Docs/s-l400.jpg" alt="Módulo FT232 para programación" width="400"/>
 </p>
 
 ---
