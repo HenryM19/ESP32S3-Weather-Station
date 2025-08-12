@@ -33,3 +33,4 @@ Incluye:
 - **AHT25**: Sensor de temperatura y humedad  
 
 ---
+

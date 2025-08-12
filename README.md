@@ -12,7 +12,7 @@ La estación actúa como nodo en una red LoRaWAN, siguiente el esquema que se mu
 
 ## 📂 Estructura del Repositorio
 
-- [`Hardware`](./Hardware)  
+- [`Hardware`](./Hardware/Desings/)  
   Archivos de diseño de la estación. 
 
 - [`Configuration`](./Configuration)  
@@ -36,3 +36,5 @@ Para preguntas o colaboraciones, contacta a **henrrydavidmaldonado@outlook.com**
 
 
 [1] H. D. Maldonado Tuza y K. I. Mogrovejo Nieves, "Transformación digital: modernización del sistema de registro hidrometeorológico del PROMAS", Tesis de pregrado, Univ. de Cuenca, 2024. [En línea]. Disponible en: https://dspace.ucuenca.edu.ec/handle/123456789/45047
+
+[2] J. P. Narváez Bernal y J. B. Tenesaca Quilambaqui, "Diseño e implementación de un protocolo de capa de aplicación para la transmisión de datos hidrometeorológicos utilizando tecnología LoRa," Tesis de pregrado, Universidad de Cuenca, 2019. [En línea]. Disponible en: http://dspace.ucuenca.edu.ec/handle/123456789/32407
