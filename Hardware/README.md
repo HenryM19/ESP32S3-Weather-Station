@@ -1,7 +1,3 @@
-
-markdown
-Copiar
-Editar
 # ⚙️ Hardware de la estación
 
 La estación meteorológica está compuesta por dos módulos PCB:  
